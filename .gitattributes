@@ -1,11 +1,3 @@
-*.php linguist-language=PHP
-*.blade.php linguist-language=Blade
-
-vendor/* linguist-vendored
-storage/* linguist-vendored
-bootstrap/cache/* linguist-vendored
-node_modules/* linguist-vendored
-
 * text=auto eol=lf
 
 *.blade.php diff=html
